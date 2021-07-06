@@ -38,9 +38,7 @@ padding-left: 30px;
 .text{
     text-align: center;
 }
-footer p{
-    text-align: center;
-}
+
 .my{
     
     width: 30%;
@@ -67,4 +65,31 @@ footer p{
     padding-left: 15px;
 
 }
- 
+
+.id{
+    margin: 50px auto;
+    width: 90%;
+    background-color: #86a699;
+    color: #232442;
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px #040526;
+}
+
+.box{
+    width: 35%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.box p{
+    font-size: 18px;
+}
+
+ footer{
+    background-color: #100e21 ;
+    color: white;
+    padding: 15px; 
+    margin-top: 28px;
+ }
